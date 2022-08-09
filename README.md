@@ -12,13 +12,13 @@ The following is an overview of how we will be spending class time over the next
 * 7 -- [The DOM](weeks/07_dom.md) and Final Project Presentations
 
 ## Section Info
-* 01 [Mimi](sections/01_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-MimiY-03)
-* 02 [John-Henry](sections/02_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-John-Henry)
-* 03 [Allison](sections/03_Allison.md) | [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Allison)
-* 04 [Mimi](sections/04_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-MimiY-05)
-* 05 [Luisa](sections/05_Luisa.md) | [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Luisa)
-* 06 [Ellen](sections/06_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Ellen-06)
-* 07 [Ellen](sections/07_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2021-Code/wiki/Homework-Ellen-07)
+* 01 [Mimi](sections/01_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Code/wiki/Homework-MimiY-01)
+* 02 [John-Henry](sections/02_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Code/wiki/Homework-John-Henry-02)
+* 03 [Allison](sections/03_Allison.md) | [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2022-Code/wiki/Homework-Allison)
+* 04 [Mimi](sections/04_Mimi.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Code/wiki/Homework-MimiY-04)
+* 05 [Emily](sections/05_Emily.md) | [Class outlines and homework assignments](https://github.com/ITPNYU/ICM-2022-Code/wiki/Homework-Emily)
+* 06 [Ellen](sections/06_Ellen.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Code/wiki/Homework-Ellen-06)
+* 07 [John-Henry](sections/07_JohnHenry.md) | [Homework](https://github.com/ITPNYU/ICM-2022-Code/wiki/Homework-John-Henry-07)
 
 ## Questions and Discussion
 - Find us on Discord under Help >> icm
