@@ -16,7 +16,7 @@
 *  Chapter 5 of [Getting Started with p5.js book](http://amzn.to/2ckixCW) | [Ebook (free with NYU Library login)](https://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4333728) | [Code](https://github.com/lmccart/gswp5.js-code)
 
 ## GUI Interfaces
-One way to practice working with conditionals is to try to code a common interface elements in the canvas: e.g. rollover, button, slider, etc. In [week 7](https://github.com/ITPNYU/ICM-2021/blob/master/weeks/07_dom.md) we'll compare this technique to using elements the browser provides for free.
+One way to practice working with conditionals is to try to code a common interface elements in the canvas: e.g. rollover, button, slider, etc. In [week 7](./07_dom.md) we'll compare this technique to using elements the browser provides for free.
 - [circle rollover](https://editor.p5js.org/icm/sketches/H1kCSqah)
 - [square rollover](https://editor.p5js.org/icm/sketches/rkLfL56h)
 - [button hold down](https://editor.p5js.org/icm/sketches/S16-H9pn)
