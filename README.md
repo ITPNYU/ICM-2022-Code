@@ -27,9 +27,9 @@ The following is an overview of how we will be spending class time over the next
 - The primary platform for the class is [p5.js](http://www.p5js.org/), a JavaScript library for creative coding.  We will start coding with the [web editor for p5.js](https://editor.p5js.org/).
 
 ## Extra Help
-- [Research Resident Office Hours](https://itp.nyu.edu/help/in-person-help/office-hours/)
-- ICM Help Sessions: TBD
-- [Coding Lab](https://itp.nyu.edu/help/in-person-help/coding-lab/) for drop-in help
+- [Research Resident Office Hours](https://itp.nyu.edu/help/office-hours/)
+- ICM Help Sessions: Mon 12.30-2pm (conference room), Tues 1-2.30pm ([zoom id](https://nyu.zoom.us/my/jeeyoon)), Thurs 12.30-2pm (outside conference room)
+- [Coding Lab](https://codinglab.itp.io/) for drop-in help
 
 ## Inspiration
 - [Help contribute to this wiki!](https://github.com/ITPNYU/ICM-2022-Code/wiki/Inspiration)
